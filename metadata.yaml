@@ -1,0 +1,31 @@
+_repo: A-Critical-Analysis-of-Patriotism-As-an-Ethical-Concept-A-Dissertation-Presented-to-the-Facul__67599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reidenbach, Clarence
+    gutenberg_agent_id: '54354'
+    url: http://www.gutenberg.org/2009/agents/54354
+description: ''
+gutenberg_issued: '2022-03-09'
+identifiers:
+  gutenberg: '67599'
+language: en
+pgterms:marc904: https://archive.org/details/criticalanalysis00reidrich
+pgterms:marc905: 20210320082439reidenbach
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Unknown, Yale University?,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcc 'JC'
+- !lcsh 'Patriotism'
+- GITenberg
+title: "A Critical Analysis of Patriotism As an Ethical Concept\r\nA Dissertation\
+  \ Presented to the Faculty of the Graduate School of Yale University in Candidacy\
+  \ for the Degree of Doctor of Philosophy May 1, 1918"
+url: http://www.gutenberg.org/ebooks/67599
