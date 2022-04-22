@@ -1,11 +1,16 @@
 _repo: A-Critical-Analysis-of-Patriotism-As-an-Ethical-Concept-A-Dissertation-Presented-to-the-Facul__67599
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67599-h/images/cover.jpg
 creator:
   author:
     agent_name: Reidenbach, Clarence
     gutenberg_agent_id: '54354'
     url: http://www.gutenberg.org/2009/agents/54354
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67599#A-Critical-Analysis-of-Patriotism-As-an-Ethical-Concept-A-Dissertation-Presented-to-the-Facul_
 gutenberg_issued: '2022-03-09'
 identifiers:
   gutenberg: '67599'
